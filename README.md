@@ -43,3 +43,5 @@ Pressure differences across levels of a CPU mean inconsistent electron determini
 Memory of past state is fundamentally different at different pressures
  
 Do electrons interface with one another where there is pressure difference?
+
+- Hunter Thompson https://youtu.be/KxzTbGgqOPk?si=ppfhUHoNSlZTd6Sh
