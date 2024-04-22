@@ -44,4 +44,8 @@ Memory of past state is fundamentally different at different pressures
  
 Do electrons interface with one another where there is pressure difference?
 
+Light is Quasi-1D 
+
+The electronic space is between 2 and 3 D
+
 - Hunter Thompson https://youtu.be/KxzTbGgqOPk?si=ppfhUHoNSlZTd6Sh
