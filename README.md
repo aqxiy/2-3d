@@ -1,5 +1,7 @@
 # 2-3d
 
+http://stocktwits.com/impulsevm/message/570356951
+
 AMD 3D CPU cache rudimentary implementation cannot overcome electron turbulence due to 3d intersection of electrostatic forces and gravity. It speaks to a fundamental underpinning of the physical universe, and it's semi-intuitive. Gravity and electricity interactions between electrons cross and the interaction is strange. Makes for micro noise.
 
 I think there is something to a 3d arrangement of wires vs 2d where gravity, pressure, and joint 3d electron forces come together with clock speed fluctuations to produce electron adeterminism
