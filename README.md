@@ -56,4 +56,6 @@ The science is over my head frankly, probably a sweet spot to attaining frequenc
 
 This is the best I've seen a game look, ever:: https://www.youtube.com/clip/UgkxKDJ3zJMNsUiJQhUtrE7qllF51HlaidIR
 
-AMD Ryzen 7 7700X & AMD Radeon RX 7700 XT
+CPU: Intel Core i5 14600KF
+
+GPU: Nvidia RTX 4060 Ti
