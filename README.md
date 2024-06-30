@@ -54,6 +54,6 @@ The electronic space is between 2 and 3 D
 
 The science is over my head frankly, probably a sweet spot to attaining frequency, multiprocessing, power loading and cache coordination. Try looking at comparison benchmarks with the naked eye - I think this stuff is fascinating. 
 
-This is the best I've seen a game look, ever:: https://www.youtube.com/watch?v=HWfsAr7Nl38
+This is the best I've seen a game look, ever:: https://www.youtube.com/clip/UgkxKDJ3zJMNsUiJQhUtrE7qllF51HlaidIR
 
 AMD Ryzen 7 7700X & AMD Radeon RX 7700 XT
