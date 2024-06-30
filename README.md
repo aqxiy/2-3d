@@ -51,3 +51,9 @@ Light is Quasi-1D
 The electronic space is between 2 and 3 D
 
 - Hunter Thompson https://youtu.be/KxzTbGgqOPk?si=ppfhUHoNSlZTd6Sh
+
+The science is over my head frankly, probably a sweet spot to attaining frequency, multiprocessing, power loading and cache coordination. Try looking at comparison benchmarks with the naked eye - I think this stuff is fascinating. 
+
+This is the best I've seen a game look, ever:: https://www.youtube.com/clip/UgkxKDJ3zJMNsUiJQhUtrE7qllF51HlaidIR
+
+L: i5 14600KF
